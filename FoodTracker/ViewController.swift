@@ -56,7 +56,7 @@ class ViewController: UIViewController, UITextFieldDelegate, UIImagePickerContro
         // Dismiss the picker
         dismiss(animated: true, completion: nil)
     }
-    
+    //test
     //MARK: Actions
     
     @IBAction func selectImageFromPhotosLibrary(_ sender: UITapGestureRecognizer) {
